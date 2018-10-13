@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "675155990354",
-    "firebase_url": "https://mytutorbd-706e7.firebaseio.com",
-    "project_id": "mytutorbd-706e7",
-    "storage_bucket": "mytutorbd-706e7.appspot.com"
+    "project_number": "536261297710",
+    "firebase_url": "https://my-tutor-bd-a2bd1.firebaseio.com",
+    "project_id": "my-tutor-bd-a2bd1",
+    "storage_bucket": "my-tutor-bd-a2bd1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:675155990354:android:5f3d70748925cce9",
+        "mobilesdk_app_id": "1:536261297710:android:5f3d70748925cce9",
         "android_client_info": {
           "package_name": "mytutor.android.com.mytutorbd"
         }
       },
       "oauth_client": [
         {
-          "client_id": "675155990354-vo7gk45vvfp5d4nar14mfqd90ein84dr.apps.googleusercontent.com",
+          "client_id": "536261297710-aabjoeb6s177ms1o6qo7j6nl9q0s45at.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "mytutor.android.com.mytutorbd",
-            "certificate_hash": "aa39480082871166bbe6fff29bc1723d45213497"
+            "certificate_hash": "919ffb4526af5780ebda8813ed1a3472bfdde349"
           }
         },
         {
-          "client_id": "675155990354-dc619mvgseqb5kf8njtg54h46j4nmcop.apps.googleusercontent.com",
+          "client_id": "536261297710-ilrb2dcd45om3vrh4gc958j5d7rtgo6f.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA7ly1Dsv2jccT3zsMz4f-c0t6eLEQzN50"
+          "current_key": "AIzaSyDj_L4bgstLDepAPhwGs6ZfzzcV_gL2roI"
         }
       ],
       "services": {
@@ -40,41 +40,10 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "675155990354-dc619mvgseqb5kf8njtg54h46j4nmcop.apps.googleusercontent.com",
+              "client_id": "536261297710-ilrb2dcd45om3vrh4gc958j5d7rtgo6f.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:675155990354:android:91eecf4730fc920b",
-        "android_client_info": {
-          "package_name": "com.firebase.uidemo"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "675155990354-dc619mvgseqb5kf8njtg54h46j4nmcop.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA7ly1Dsv2jccT3zsMz4f-c0t6eLEQzN50"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
